@@ -1,0 +1,22 @@
+"data_quality_issue","count","total_rows","percent"
+"High glucose but no diabetes",336,2000,16.8
+"High systolic BP but no hypertension",222,2000,11.1
+"High diastolic BP but no hypertension",181,2000,9.05
+"Suspiciously low glucose",124,2000,6.2
+"Missing BMI information",108,2000,5.4
+"Male with pregnancy-related diagnosis",99,2000,4.95
+"Missing respiratory rate",81,2000,4.05
+"Missing or non-numeric age",70,2000,3.5
+"Missing or invalid blood pressure",69,2000,3.45
+"Missing pulse rate",62,2000,3.1
+"Invalid BP: systolic not greater than diastolic",31,2000,1.55
+"Diabetes with very low glucose",29,2000,1.45
+"Missing or non-numeric glucose",24,2000,1.2
+"Missing or non-numeric height",19,2000,0.95
+"Missing or non-numeric temperature",17,2000,0.85
+"Missing or non-numeric weight",16,2000,0.8
+"Duplicated patient IDs",15,2000,0.75
+"Missing or non-numeric cholesterol",15,2000,0.75
+"Suspicious age above 110",9,2000,0.45
+"Invalid age below 0",7,2000,0.35
+"Fully duplicated rows",0,2000,0
